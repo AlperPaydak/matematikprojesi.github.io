@@ -19,7 +19,7 @@ We work so hard to lay a great project in your feet
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlperPaydak/matematikprojesi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Yesa I agree [repository settings](https://github.com/AlperPaydak/matematikprojesi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
